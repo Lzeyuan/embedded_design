@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/gameUI/back3.jpg</file>
+        <file>img/gameUI/down_key.png</file>
+        <file>img/gameUI/grid.png</file>
+        <file>img/gameUI/left_key.png</file>
+        <file>img/gameUI/next.png</file>
+        <file>img/gameUI/right_key.png</file>
+        <file>img/gameUI/score.png</file>
+        <file>img/gameUI/up_key.png</file>
+        <file>music/game/distance_button.wav</file>
+        <file>music/game/background.mp3</file>
+        <file>TTextBtn.qml</file>
+        <file>GamePage.qml</file>
+        <file>GameButton.qml</file>
+        <file>img/gameUI/item_back.png</file>
+        <file>img/gameUI/home.png</file>
+        <file>img/gameUI/sound.png</file>
+        <file>img/gameUI/mute.png</file>
+        <file>img/gameUI/function.png</file>
+    </qresource>
+</RCC>
